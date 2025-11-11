@@ -3,7 +3,7 @@
 Thank you for visiting my profile!  
 I’m a **Japanese creative and aspiring Front-End Engineer** currently based in **Adelaide, Australia**.  
 
-I’m pursuing a **Master’s degree in Information Technology at Flinders University**, while working as a **Head Barista**☕️ at a local café.  
+I’m pursuing a **Master’s degree in Information Technology at Flinders University**, while working as a **Head Barista**☕️ at a local cafe.  
 I’m passionate about **Front-End Development**, **Web Design**, and **UI/UX**, and my goal is to become a **Front-End Developer/Engineer** — with a long-term aspiration to grow into a **Full Stack Engineer** in the future.
 
 ---
