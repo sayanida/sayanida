@@ -1,16 +1,53 @@
-## Hi there 👋
+## 😊 Hi, I'm Saya!
 
-<!--
-**sayanida/sayanida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thank you for visiting my profile!  
+I’m a **Japanese creative and aspiring Front-End Engineer** currently based in **Adelaide, Australia**.  
 
-Here are some ideas to get you started:
+I’m pursuing a **Master’s degree in Information Technology at Flinders University**, while working as a **Head Barista**☕️ at a local café.  
+I’m passionate about **Front-End Development**, **Web Design**, and **UI/UX**, and my goal is to become a **Front-End Developer/Engineer** — with a long-term aspiration to grow into a **Full Stack Engineer** in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills
+
+#### 🧩 Technical Skills
+- **Front-End:** HTML, CSS (experienced), JavaScript, React (currently learning)  
+- **Back-End:** Java, PHP, SQL, Python (basic knowledge; used in class assignments)  
+- **Tools:** Git, GitHub, Visual Studio Code  
+
+#### 🌐 Languages
+- **Japanese:** Native  
+- **English:** Advanced  
+
+#### 🎨 Design Tools
+- Adobe Illustrator, Photoshop, InDesign, XD, Figma  
+
+#### 💬 Other Skills
+- Analytical thinking and strong communication developed through interdisciplinary studies  
+- Deep understanding of human behavior, supporting effective teamwork and problem-solving  
+
+---
+
+### 🌱 Interests
+- 🌐 Web design, web development, and front-end engineering — building practical projects  
+- ⚙️ Exploring full-stack development — learning back-end technologies  
+- ☕ Making coffee and exploring local cafes, attending cupping events — creativity and attention to detail  
+- 🧘 Pilates and meditation — maintaining focus and well-being  
+- 📖 Reading self-development books — personal and professional growth  
+
+---
+
+### 🚀 Portfolio
+Check out my latest projects and designs here 👇  
+- 🎨 [Personal Portfolio Website](https://sayadesign.site/)  
+- 💼 [To Do List App - using React](https://github.com/sayanida/Todolist)  
+- 📰 [Blog Site - using React]*(coming soon)* 
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](www.linkedin.com/in/saaya-yoshida)  
+- 🌎 [Instagram](https://www.instagram.com/weakcappuccino1s/)  
+- 📧 38n.01.aus@gmail.com
+
+---
