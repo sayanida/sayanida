@@ -39,7 +39,7 @@ I’m passionate about **Front-End Development**, **Web Design**, and **UI/UX**,
 
 ### 🚀 Portfolio
 Check out my latest projects and designs here 👇  
-- 🎨 [Personal Portfolio Website](https://sayadesign.site/)  
+- 🎨 [Personal Portfolio Website](https://sayanida.github.io/portfolio-site/)
 - 💼 [To Do List App - using React](https://github.com/sayanida/Todolist)  
 - 📰 [Blog Site - using React]*(coming soon)* 
 
