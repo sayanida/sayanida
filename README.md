@@ -34,6 +34,8 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 - Visual Studio Code
 - Agile / Sprint-based development
 
+---
+
 ### 🎨 UI / UX
 - Developing accessible, user-friendly interfaces
 - Translating design requirements into functional UI
@@ -44,7 +46,9 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 - Photoshop
 - InDesign
 - XD
-- Figma  
+- Figma
+
+---
 
 ### 💬 Other Skills
 - Analytical thinking and strong communication developed through interdisciplinary studies  
