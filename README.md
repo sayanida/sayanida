@@ -8,31 +8,31 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
-#### Programming Languages
-- JavaScript, TypeScript
-- HTML, CSS
-- Java (basic)
-- SQL (basic) 
-- Python (learning)
-- PHP (learning)
+ #### Programming Languages
+ - JavaScript, TypeScript
+ - HTML, CSS
+ - Java (basic)
+ - SQL (basic) 
+ - Python (learning)
+ - PHP (learning)
+  
+ #### Frameworks & Libraries
+ - React
+ - Material UI (MUI)
+ - Storybook
+ - Emotion
+ - Bootstrap
  
-#### Frameworks & Libraries
-- React
-- Material UI (MUI)
-- Storybook
-- Emotion
-- Bootstrap
-
-#### Cloud & OS
-- AWS
-- Linux
-
-#### Tools & Workflow
-- Git, GitHub
-- Visual Studio Code
-- Agile / Sprint-based development
+ #### Cloud & OS
+ - AWS
+ - Linux
+ 
+ #### Tools & Workflow
+ - Git, GitHub
+ - Visual Studio Code
+ - Agile / Sprint-based development
 
 ---
 
@@ -40,13 +40,13 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 - Developing accessible, user-friendly interfaces
 - Translating design requirements into functional UI
 - Figma for design-to-development collaboration
-
-#### Design Tools
-- Adobe Illustrator
-- Photoshop
-- InDesign
-- XD
-- Figma
+ 
+ #### Design Tools
+ - Adobe Illustrator
+ - Photoshop
+ - InDesign
+ - XD
+ - Figma
 
 ---
 
@@ -54,9 +54,9 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 - Analytical thinking and strong communication developed through interdisciplinary studies  
 - Deep understanding of human behavior, supporting effective teamwork and problem-solving  
 
-#### Languages
-- **Japanese:** Native  
-- **English:** Advanced  
+ #### Languages
+ - **Japanese:** Native  
+ - **English:** Advanced  
 
 ---
 
