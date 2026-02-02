@@ -1,47 +1,75 @@
 ## 😊 Hi, I'm Saya!
 
 Thank you for visiting my profile!  
-I’m a **Japanese creative and aspiring Front-End Engineer** currently based in **Adelaide, Australia**.  
+I’m a **Master of IT student at Flinders University** and an **Application Developer Intern** with experience building web applications.
+My current focus is **Front-End Development** using **JavaScript, TypeScript, React, and MUI**, and I’m actively expanding my skills toward **Full Stack / Software Engineering**.
 
-I’m pursuing a **Master’s degree in Information Technology at Flinders University**, while working as a **Head Barista**☕️ at a local cafe.  
-I’m passionate about **Front-End Development**, **Web Design**, and **UI/UX**, and my goal is to become a **Front-End Developer/Engineer** — with a long-term aspiration to grow into a **Full Stack Engineer** in the future.
+**Graduating in July 2026**, I’m seeking opportunities where I can contribute to impactful software and grow as an engineer.
 
 ---
 
-### 💻 Skills
+### 🚀 Tech Stack
 
-#### 🧩 Technical Skills
-- **Front-End:** HTML, CSS (experienced), JavaScript, React (currently learning)  
-- **Back-End:** Java, PHP, SQL, Python (basic knowledge; used in class assignments)  
-- **Tools:** Git, GitHub, Visual Studio Code  
+#### Programming Languages
+- JavaScript, TypeScript
+- HTML, CSS
+- Java (basic)
+- SQL (basic) 
+- Python (learning)
+- PHP (learning)
+ 
+#### Frameworks & Libraries
+- React
+- Material UI (MUI)
+- Storybook
+- Emotion
+- Bootstrap
 
-#### 🌐 Languages
-- **Japanese:** Native  
-- **English:** Advanced  
+#### Cloud & OS
+- AWS
+- Linux
 
-#### 🎨 Design Tools
-- Adobe Illustrator, Photoshop, InDesign, XD, Figma  
+#### Tools & Workflow
+- Git, GitHub
+- Visual Studio Code
+- Agile / Sprint-based development
 
-#### 💬 Other Skills
+### 🎨 UI / UX
+- Developing accessible, user-friendly interfaces
+- Translating design requirements into functional UI
+- Figma for design-to-development collaboration
+
+#### Design Tools
+- Adobe Illustrator
+- Photoshop
+- InDesign
+- XD
+- Figma  
+
+### 💬 Other Skills
 - Analytical thinking and strong communication developed through interdisciplinary studies  
 - Deep understanding of human behavior, supporting effective teamwork and problem-solving  
+
+#### Languages
+- **Japanese:** Native  
+- **English:** Advanced  
 
 ---
 
 ### 🌱 Interests
-- 🌐 Web design, web development, and front-end engineering — building practical projects  
-- ⚙️ Exploring full-stack development — learning back-end technologies  
-- ☕ Making coffee and exploring local cafes, attending cupping events — creativity and attention to detail  
-- 🧘 Pilates and meditation — maintaining focus and well-being  
-- 📖 Reading self-development books — personal and professional growth  
+- Full-stack development
+- Scalable software design
+- UI/UX and usability
+- Specialty coffee & cafe hopping ☕
+- Pilates, meditation, and self-improvement 
 
 ---
 
 ### 🚀 Portfolio
 Check out my latest projects and designs here 👇  
-- 🎨 [Personal Portfolio Website](https://sayanida.github.io/portfolio-site/)
 - 💼 [To Do List App - using React](https://github.com/sayanida/Todolist)  
-- 📰 [Blog Site - using React]*(coming soon)* 
+- 📰 [MUI CRUD - using React](sayanida.github.io/react-mui-crud/)
+- 🎨 [Personal Portfolio Website](https://sayanida.github.io/portfolio-site/)
 
 ---
 
