@@ -1,7 +1,7 @@
 ## 😊 Hi, I'm Saya!
 
 Thank you for visiting my profile!  
-I’m a **Master of IT student at Flinders University** and an **Application Developer Intern** with experience building web applications.
+I’m a **Master of IT student at Flinders University** with experience as an **Application Developer Intern**.
 My current focus is **Front-End Development** using **JavaScript, TypeScript, React, and MUI**, and I’m actively expanding my skills toward **Full Stack / Software Engineering**.
 
 **Graduating in July 2026**, I’m seeking opportunities where I can contribute to impactful software and grow as an engineer.
