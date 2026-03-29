@@ -71,8 +71,8 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 
 ### 🚀 Portfolio
 Check out my latest projects and designs here 👇  
+- 📰 [MUI CRUD - using React](https://github.com/sayanida/react-mui-crud)
 - 💼 [To Do List App - using React](https://github.com/sayanida/Todolist)  
-- 📰 [MUI CRUD - using React](sayanida.github.io/react-mui-crud/)
 - 🎨 [Personal Portfolio Website](https://sayanida.github.io/portfolio-site/)
 
 ---
