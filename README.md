@@ -2,6 +2,7 @@
 
 Thank you for visiting my profile!  
 I’m an **Application Developer** at Encompaas and hold a Master of Information Technology from Flinders University, graduated in July 2026.
+
 My current focus is **Front-End Development using TypeScript, React, and MUI**, while actively expanding my skills in **Back-End Development to grow as a Full-Stack Software Engineer**.
 I enjoy building practical, user-focused applications and continuously improving my technical skills by working on both professional and personal projects.
 
@@ -70,7 +71,7 @@ I enjoy building practical, user-focused applications and continuously improving
 
 ### 🚀 Portfolio
 Check out my latest projects and designs here 👇  
-- 👤 [HiveOps Admin Console - using React](https://sayanida.github.io/react-hiveops-admin/))
+- 👤 [HiveOps Admin Console - using React](https://sayanida.github.io/react-hiveops-admin/)
 - 📰 [MUI CRUD - using React](https://github.com/sayanida/react-mui-crud)
 - 💼 [To Do List App - using React](https://github.com/sayanida/Todolist)  
 - 🎨 [Personal Portfolio Website](https://sayanida.github.io/portfolio-site/)
