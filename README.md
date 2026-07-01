@@ -1,10 +1,9 @@
 ## 😊 Hi, I'm Saya!
 
 Thank you for visiting my profile!  
-I’m a **Master of IT student at Flinders University** with experience as an **Application Developer Intern**.
-My current focus is **Front-End Development** using **JavaScript, TypeScript, React, and MUI**, and I’m actively expanding my skills toward **Full Stack / Software Engineering**.
-
-**Graduating in July 2026**, I’m seeking opportunities where I can contribute to impactful software and grow as an engineer.
+I’m an **Application Developer** at Encompaas and hold a Master of Information Technology from Flinders University, graduated in July 2026.
+My current focus is **Front-End Development using TypeScript, React, and MUI**, while actively expanding my skills in **Back-End Development to grow as a Full-Stack Software Engineer**.
+I enjoy building practical, user-focused applications and continuously improving my technical skills by working on both professional and personal projects.
 
 ---
 
@@ -64,13 +63,14 @@ My current focus is **Front-End Development** using **JavaScript, TypeScript, Re
 - Full-stack development
 - Scalable software design
 - UI/UX and usability
-- Specialty coffee & cafe hopping ☕
+- Making coffee & cafe hopping ☕
 - Pilates, meditation, and self-improvement 
 
 ---
 
 ### 🚀 Portfolio
 Check out my latest projects and designs here 👇  
+- 👤 [HiveOps Admin Console - using React](https://sayanida.github.io/react-hiveops-admin/))
 - 📰 [MUI CRUD - using React](https://github.com/sayanida/react-mui-crud)
 - 💼 [To Do List App - using React](https://github.com/sayanida/Todolist)  
 - 🎨 [Personal Portfolio Website](https://sayanida.github.io/portfolio-site/)
