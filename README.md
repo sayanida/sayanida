@@ -81,6 +81,5 @@ Check out my latest projects and designs here 👇
 ### 📫 Connect With Me
 - 💼 [LinkedIn](www.linkedin.com/in/saaya-yoshida)  
 - 🌎 [Instagram](https://www.instagram.com/weakcappuccino1s/)  
-- 📧 38n.01.aus@gmail.com
 
 ---
